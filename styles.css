@@ -32,10 +32,16 @@ h1 {
 }
 
 .project {
-    width: 30%;
+    width: 25%;
     margin: 1em;
-    padding: 1em;
+    padding: 0.5em;
     border: 1px solid #603e3e;
     border-radius: 5px;
     background-color: #f7dede;
+}
+
+.project img {
+    width: 350px;
+    height: auto;
+    border-radius: 5px;
 }
